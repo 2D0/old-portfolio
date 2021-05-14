@@ -10,8 +10,6 @@ body{
     font-size:14px; 
     line-height:18px;
     font-family: 'Nanum Gothic', sans-serif;
-    height:3842px;
-    overflow-y:hidden;
 }
 a{
     color:#333; 
